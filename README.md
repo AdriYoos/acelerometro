@@ -13,21 +13,15 @@ Mini‑juego en Flutter controlado con el acelerómetro (`sensors_plus`).
 
 ## Controles
 
-- **Invertir X / Invertir Y**: invierte el sentido del movimiento por si el tilt se siente “al revés”.
+- **Invertir X / Invertir Y**: invierte el sentido del movimiento y se sentira “al revés”.
 - **Coordenadas del jugador (X, Y)**: muestra la posición del jugador en pixeles dentro del área de juego.
 
-## Capturas de pantalla (qué poner y por qué)
+## Capturas de pantalla 
 
-Guarda tus imágenes en `assets/screenshots/` con estos nombres (recomendado):
-
-1. `assets/screenshots/01_inicio.png`
-   - Representa: vista general del juego (jugador, objetivo, obstáculos y el Score).
-2. `assets/screenshots/02_coordenadas.png`
-   - Representa: el panel mostrando **Coordenadas del jugador: X=… Y=…**.
-3. `assets/screenshots/03_invertir_xy.png`
-   - Representa: switches de **Invertir X/Y** activados (útil si el movimiento iba al revés).
-4. `assets/screenshots/04_score.png`
-   - Representa: un Score > 0 después de alcanzar el objetivo (demuestra que la lógica de rondas funciona).
+1. vista general del juego (jugador, objetivo, obstáculos y el Score).
+2. el panel mostrando **Coordenadas del jugador: X=… Y=…**.
+3. switches de **Invertir X/Y** activados.
+4. un Score > 0 después de alcanzar el objetivo.
 
 Luego, cuando existan esos archivos, se verán aquí:
 
