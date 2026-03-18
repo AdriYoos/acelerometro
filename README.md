@@ -23,7 +23,6 @@ Mini‑juego en Flutter controlado con el acelerómetro (`sensors_plus`).
 3. switches de **Invertir X/Y** activados.
 4. un Score > 0 después de alcanzar el objetivo.
 
-Luego, cuando existan esos archivos, se verán aquí:
 
 | Inicio | Coordenadas |
 | --- | --- |
